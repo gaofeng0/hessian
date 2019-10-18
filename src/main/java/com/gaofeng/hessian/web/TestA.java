@@ -2,8 +2,6 @@ package com.gaofeng.hessian.web;
 
 public class TestA {
     public static void main(String[] args) {
-        System.out.println("aaadsss");
-        System.out.println("aaadsss");
-        System.out.println("aaadsss");
+        System.out.println("dev2");
     }
 }
